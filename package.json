@@ -1,7 +1,7 @@
 {
   "name": "bolajiayodeji",
   "version": "1.0.0",
-  "description": "Bolaji Ayodeji's GitHub Profile",
+  "description": "Gerard Monso's GitHub Profile",
   "main": "src/app.ts",
   "scripts": {
     "build": "npx tsc",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BolajiAyodeji/BolajiAyodeji.git"
+    "url": "git+https://github.com/gmonso/gmonso1.git"
   },
   "author": "Bolaji Ayodeji",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BolajiAyodeji/BolajiAyodeji/issues"
+    "url": "https://github.com/gmonso/gmonso1/issues"
   },
-  "homepage": "https://github.com/BolajiAyodeji/BolajiAyodeji#readme",
+  "homepage": "https://github.com/gmonso/gmonso1#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "markdown-it": "^13.0.2",
